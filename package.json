@@ -1,0 +1,27 @@
+{
+  "name": "templatetest",
+  "version": "1.0.0",
+  "description": "Un template de portfolio simple en HTML, CSS et JavaScript.",
+  "main": ".eslintrc.js",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssydney77/TemplateTest.git"
+  },
+  "author": "Sydney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssydney77/TemplateTest/issues"
+  },
+  "homepage": "https://github.com/ssydney77/TemplateTest#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "eslint ."
+    }
+  }
+}
