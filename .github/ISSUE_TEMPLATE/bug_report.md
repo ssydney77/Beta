@@ -1,3 +1,11 @@
+---
+name: Report d'un bug
+about: Créez un rapport pour nous aider à nous améliorer
+title: ''
+labels: ''
+assignees: ''
+
+---
 ## Description du bug
 
 Une description claire et concise de ce qu'est le bug.

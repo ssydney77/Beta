@@ -1,3 +1,12 @@
+---
+name: Demande de fonctionnalité
+about: Suggérer une idée pour ce projet
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Description de la fonctionnalité
 
 Une description claire et concise de la fonctionnalité.
