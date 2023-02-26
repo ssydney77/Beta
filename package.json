@@ -1,0 +1,27 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "description": "Un template de portfolio simple en HTML, CSS et JavaScript.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssydney77/Beta.git"
+  },
+  "author": "Sydney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssydney77/Beta/issues"
+  },
+  "homepage": "https://github.com/ssydney77/Beta#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "eslint ."
+    }
+  }
+}
