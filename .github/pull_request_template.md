@@ -1,29 +1,38 @@
 ---
-name: Demande de fusion
-
-description: Modèle de Pull request pour faciliter l'intégration de nouvelles fonctionnalités dans le projet.
-
-title: "[NOM DE LA FONCTIONNALITÉ] - Description courte"
-
-labels:
-  - feature
-
-assignees:
-  - nom_utilisateur
+name: Report d'un bug
+about: Créez un rapport pour nous aider à nous améliorer
+title: ''
+labels: ''
+assignees: ''
 
 ---
+## Description du bug
 
-## Description
+Une description claire et concise de ce qu'est le bug.
 
-[Expliquez ici ce que fait la fonctionnalité, pourquoi elle est nécessaire et comment elle est mise en œuvre. Incluez des captures d'écran ou des exemples si nécessaire.]
+## Étapes pour reproduire
 
-## Checklist
+Décrivez les étapes pour reproduire le comportement :
 
-- [ ] J'ai testé cette fonctionnalité localement et elle fonctionne comme prévu.
-- [ ] J'ai ajouté des tests unitaires pour cette fonctionnalité.
-- [ ] J'ai mis à jour la documentation pour cette fonctionnalité.
-- [ ] Mes modifications sont conformes aux directives de contribution du projet.
+1. Aller sur '...'
+2. Cliquer sur '....'
+3. Faites défiler jusqu'à '....'
+4. Voir l'erreur
 
-## Autres informations
+## Comportement attendu
 
-[Toute information supplémentaire que vous souhaitez inclure, telle que des problèmes connus ou des points de discussion à aborder lors de la révision de la demande de fusion.]
+Une description claire et concise de ce que vous attendez qu'il se passe.
+
+## Captures d'écran
+
+Le cas échéant, ajoutez des captures d'écran pour aider à expliquer votre problème.
+
+## Informations supplémentaires
+
+Ajoutez toutes les informations supplémentaires ici.
+
+## Environnement
+
+ - Système d'exploitation : [ex : Windows]
+ - Navigateur : [ex : Chrome, Firefox]
+ - Version du navigateur : [ex : 22]
