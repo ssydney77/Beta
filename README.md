@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # **Beta**
+=======
+# **TemplateTest**
+>>>>>>> origin3/main
 
 Un template de portfolio simple en HTML, CSS et JavaScript.
 
